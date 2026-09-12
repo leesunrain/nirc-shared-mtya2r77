@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0f172a"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><title>마라톤 일정</title><link rel="manifest" href="manifest.webmanifest"><link rel="icon" href="icon-192.png"><link rel="stylesheet" href="style.css"></head>
+<body><header class="top"><div><div class="eyebrow">2026 RUNNING CALENDAR</div><h1>마라톤 일정</h1><p id="todayText"></p></div><button id="refreshBtn" class="iconbtn" title="새로고침">↻</button></header>
+<main>
+<section class="stats"><div><b id="countAll">0</b><span>검색 대회</span></div><div><b id="countOpen">0</b><span>접수 가능</span></div><div><b id="countSoon">0</b><span>마감 7일↓</span></div><div><b id="countFav">0</b><span>관심대회</span></div></section>
+<section class="panel"><div class="monthTabs" id="monthTabs"></div><div class="filters">
+<label>권역<select id="groupFilter"><option value="">전체 권역</option></select></label><label>지역<select id="provinceFilter"><option value="">전체 지역</option></select></label><label>종목<select id="distanceFilter"><option value="">전체 종목</option><option>5K</option><option>10K</option><option>HALF</option><option>FULL</option><option value="TRAIL">트레일·울트라</option></select></label><label>대회까지<select id="daysFilter"><option value="">전체</option><option value="7">7일 이내</option><option value="30">30일 이내</option><option value="60">60일 이내</option><option value="90">90일 이내</option></select></label><label>접수<select id="regFilter"><option value="">전체 상태</option><option value="open">접수중/선착순</option><option value="soon">마감 7일 이내</option><option value="upcoming">접수예정</option><option value="closed">접수마감</option><option value="unknown">마감일 미확인</option></select></label><label>정렬<select id="sortFilter"><option value="race">대회 가까운 순</option><option value="reg">접수마감 가까운 순</option></select></label></div>
+<div class="searchrow"><input id="searchInput" placeholder="대회명·장소 검색"><button id="favOnly" class="chip">★ 관심대회만</button></div>
+<div class="applyrow"><button id="resetBtn" class="resetBtn">초기화</button><button id="applyBtn" class="applyBtn">조회하기</button></div>
+<div id="applyHint" class="applyHint" hidden>조건을 변경했습니다. ‘조회하기’를 누르면 결과에 반영됩니다.</div></section>
+<div id="currentQuery" class="currentQuery"></div>
+<div class="notice">대회·접수 일정은 주최 측 사정으로 변경될 수 있습니다. 접수 전 공식 페이지를 다시 확인하세요.</div>
+<section id="list" class="cards"></section><div id="empty" class="empty" hidden>조건에 맞는 대회가 없습니다.</div>
+</main><footer>자료 통합: 마라톤온라인 · 마라톤플러스 · 고러닝 · 중복 정리 및 교차 확인</footer><script src="data.js"></script><script src="app.js"></script></body></html>
