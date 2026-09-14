@@ -159,7 +159,11 @@ function card(r){
   const sourceUrl=s=>s==='고러닝'?'https://gorunning.kr/':s==='마라톤온라인'?'http://www.marathon.pe.kr/':'https://www.marathonplus.co.kr/';
   const src=r.source.map(s=>`<a href="${sourceUrl(s)}" target="_blank" rel="noopener">${s}</a>`).join(' · ');
   const note=(r.note||rs==='check')?`<span class="flag">정보확인</span>`:'';
-  return `<article class="card ${rs==='cancel'?'cancel':''}"><div class="cardtop"><div><div class="date">${fmtDate(r.date)} ${r.time||''} · ${r.province} · ${groupOf(r.province)}</div><div class="title">${r.name}</div><div class="place">📍 ${r.venue}</div></div><button class="fav ${favs.has(r.id)?'on':''}" data-id="${r.id}" aria-label="관심대회">★</button></div><div class="badges"><div class="dday"><small>대회까지</small><strong>${dlabel(rd)}</strong></div><div class="dday ${regClass}"><small>접수마감까지</small><strong>${regLabel(r)}</strong></div></div><div class="dist">${r.distances.split(',').map(x=>`<span>${x}</span>`).join('')}</div><div class="meta"><div><b>접수</b> ${period||'확인 필요'}</div></div><div class="source">출처 ${src}${note}</div></article>`;
+  const searchUrl='https://search.naver.com/search.naver?query='+encodeURIComponent(r.name+' 공식 홈페이지 참가신청');
+  const homeUrl=r.homepageUrl||searchUrl;
+  const homeText=r.homepageUrl?'공식 홈페이지':'홈페이지 찾기';
+  const homeClass=r.homepageUrl?'homebtn verified':'homebtn search';
+  return `<article class="card ${rs==='cancel'?'cancel':''}"><div class="cardtop"><div><div class="date">${fmtDate(r.date)} ${r.time||''} · ${r.province} · ${groupOf(r.province)}</div><div class="title">${r.name}</div><div class="place">📍 ${r.venue}</div></div><button class="fav ${favs.has(r.id)?'on':''}" data-id="${r.id}" aria-label="관심대회">★</button></div><div class="badges"><div class="dday"><small>대회까지</small><strong>${dlabel(rd)}</strong></div><div class="dday ${regClass}"><small>접수마감까지</small><strong>${regLabel(r)}</strong></div></div><div class="dist">${r.distances.split(',').map(x=>`<span>${x}</span>`).join('')}</div><div class="meta"><div><b>접수</b> ${period||'확인 필요'}</div></div><div class="raceActions"><a class="${homeClass}" href="${homeUrl}" target="_blank" rel="noopener noreferrer"><span>${r.homepageUrl?'🌐':'🔎'}</span>${homeText}<b>↗</b></a></div><div class="source">출처 ${src}${note}</div></article>`;
 }
 
 init();

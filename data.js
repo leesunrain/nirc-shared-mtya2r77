@@ -14,7 +14,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r001"
+    "id": "r001",
+    "homepageUrl": "https://gnrace.kr/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-12",
@@ -31,7 +33,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r002"
+    "id": "r002",
+    "homepageUrl": "https://yrun.wizrun.com/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-12",
@@ -48,7 +52,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r003"
+    "id": "r003",
+    "homepageUrl": "https://www.herorace.kr/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-12",
@@ -65,7 +71,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r004"
+    "id": "r004",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -82,7 +90,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r005"
+    "id": "r005",
+    "homepageUrl": "https://www.rocknrun.kr/REDFOODRACE",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-12",
@@ -99,7 +109,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r006"
+    "id": "r006",
+    "homepageUrl": "https://n-runplus.co.kr/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-12",
@@ -116,7 +128,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r007"
+    "id": "r007",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -133,7 +147,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r008"
+    "id": "r008",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -150,7 +166,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r009"
+    "id": "r009",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -167,7 +185,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r010"
+    "id": "r010",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -184,7 +204,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r011"
+    "id": "r011",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-12",
@@ -201,7 +223,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r012"
+    "id": "r012",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -218,7 +242,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r013"
+    "id": "r013",
+    "homepageUrl": "https://runseoulrun.com/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-13",
@@ -235,7 +261,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r014"
+    "id": "r014",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -252,7 +280,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r015"
+    "id": "r015",
+    "homepageUrl": "https://energyrun.co.kr/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-13",
@@ -269,7 +299,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r016"
+    "id": "r016",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -286,7 +318,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r017"
+    "id": "r017",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -303,7 +337,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r018"
+    "id": "r018",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -320,7 +356,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r019"
+    "id": "r019",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -337,7 +375,9 @@ window.RACES = [
     ],
     "sourceUrl": "http://www.marathon.pe.kr/",
     "note": "마라톤온라인 일정에서 확인; 접수 마감일은 별도 확인 필요",
-    "id": "r020"
+    "id": "r020",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-13",
@@ -354,7 +394,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "접수 마감일이 대회일 이후로 표기되어 출처 재확인 필요",
-    "id": "r021"
+    "id": "r021",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-14",
@@ -371,7 +413,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r022"
+    "id": "r022",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -388,7 +432,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r023"
+    "id": "r023",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -405,7 +451,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r024"
+    "id": "r024",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -422,7 +470,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r025"
+    "id": "r025",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -439,7 +489,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r026"
+    "id": "r026",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -456,7 +508,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r027"
+    "id": "r027",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -473,7 +527,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r028"
+    "id": "r028",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -490,7 +546,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r029"
+    "id": "r029",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -507,7 +565,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r030"
+    "id": "r030",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -524,7 +584,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r031"
+    "id": "r031",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -541,7 +603,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r032"
+    "id": "r032",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-19",
@@ -558,7 +622,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r033"
+    "id": "r033",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -575,7 +641,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r034"
+    "id": "r034",
+    "homepageUrl": "https://www.gongjumarathon.com/",
+    "homepageVerified": true
   },
   {
     "date": "2026-09-20",
@@ -592,7 +660,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r035"
+    "id": "r035",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -609,7 +679,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r036"
+    "id": "r036",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -626,7 +698,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r037"
+    "id": "r037",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -643,7 +717,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r038"
+    "id": "r038",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -660,7 +736,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r039"
+    "id": "r039",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -677,7 +755,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r040"
+    "id": "r040",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -694,7 +774,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r041"
+    "id": "r041",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-09-20",
@@ -711,7 +793,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r042"
+    "id": "r042",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -728,7 +812,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r043"
+    "id": "r043",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -745,7 +831,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r044"
+    "id": "r044",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -762,7 +850,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r045"
+    "id": "r045",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -779,7 +869,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r046"
+    "id": "r046",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -796,7 +888,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r047"
+    "id": "r047",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -813,7 +907,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r048"
+    "id": "r048",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -830,7 +926,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r049"
+    "id": "r049",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-03",
@@ -847,7 +945,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r050"
+    "id": "r050",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-04",
@@ -864,7 +964,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r051"
+    "id": "r051",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-04",
@@ -881,7 +983,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r052"
+    "id": "r052",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-04",
@@ -898,7 +1002,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r053"
+    "id": "r053",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-04",
@@ -915,7 +1021,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r054"
+    "id": "r054",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-05",
@@ -932,7 +1040,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r055"
+    "id": "r055",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-05",
@@ -949,7 +1059,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r056"
+    "id": "r056",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-05",
@@ -966,7 +1078,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r057"
+    "id": "r057",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-05",
@@ -983,7 +1097,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r058"
+    "id": "r058",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-10",
@@ -1000,7 +1116,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r059"
+    "id": "r059",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-10",
@@ -1017,7 +1135,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r060"
+    "id": "r060",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-10",
@@ -1034,7 +1154,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r061"
+    "id": "r061",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1051,7 +1173,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r062"
+    "id": "r062",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1068,7 +1192,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r063"
+    "id": "r063",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1085,7 +1211,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r064"
+    "id": "r064",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1102,7 +1230,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r065"
+    "id": "r065",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1119,7 +1249,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r066"
+    "id": "r066",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1136,7 +1268,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r067"
+    "id": "r067",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1153,7 +1287,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r068"
+    "id": "r068",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1170,7 +1306,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r069"
+    "id": "r069",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-11",
@@ -1187,7 +1325,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r070"
+    "id": "r070",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1204,7 +1344,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r071"
+    "id": "r071",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1221,7 +1363,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r072"
+    "id": "r072",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1238,7 +1382,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r073"
+    "id": "r073",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1255,7 +1401,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r074"
+    "id": "r074",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1272,7 +1420,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r075"
+    "id": "r075",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-17",
@@ -1289,7 +1439,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r076"
+    "id": "r076",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1306,7 +1458,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r077"
+    "id": "r077",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1323,7 +1477,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r078"
+    "id": "r078",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1340,7 +1496,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r079"
+    "id": "r079",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1357,7 +1515,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r080"
+    "id": "r080",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1374,7 +1534,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r081"
+    "id": "r081",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-18",
@@ -1391,7 +1553,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r082"
+    "id": "r082",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-20",
@@ -1408,7 +1572,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r083"
+    "id": "r083",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1425,7 +1591,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r084"
+    "id": "r084",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1442,7 +1610,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r085"
+    "id": "r085",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1459,7 +1629,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r086"
+    "id": "r086",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1476,7 +1648,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r087"
+    "id": "r087",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1493,7 +1667,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r088"
+    "id": "r088",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-24",
@@ -1510,7 +1686,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r089"
+    "id": "r089",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-25",
@@ -1527,7 +1705,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r090"
+    "id": "r090",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-25",
@@ -1544,7 +1724,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r091"
+    "id": "r091",
+    "homepageUrl": "https://www.chuncheonmarathon.com/index.html",
+    "homepageVerified": true
   },
   {
     "date": "2026-10-25",
@@ -1561,7 +1743,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r092"
+    "id": "r092",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-25",
@@ -1578,7 +1762,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r093"
+    "id": "r093",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-25",
@@ -1595,7 +1781,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r094"
+    "id": "r094",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-31",
@@ -1612,7 +1800,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r095"
+    "id": "r095",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-31",
@@ -1629,7 +1819,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r096"
+    "id": "r096",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-31",
@@ -1646,7 +1838,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r097"
+    "id": "r097",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-10-31",
@@ -1663,7 +1857,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r098"
+    "id": "r098",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-01",
@@ -1680,7 +1876,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r099"
+    "id": "r099",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-01",
@@ -1697,7 +1895,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r100"
+    "id": "r100",
+    "homepageUrl": "https://marathon.jtbc.com/",
+    "homepageVerified": true
   },
   {
     "date": "2026-11-01",
@@ -1714,7 +1914,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r101"
+    "id": "r101",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-01",
@@ -1731,7 +1933,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r102"
+    "id": "r102",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-01",
@@ -1748,7 +1952,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r103"
+    "id": "r103",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-01",
@@ -1765,7 +1971,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r104"
+    "id": "r104",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-07",
@@ -1782,7 +1990,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r105"
+    "id": "r105",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-07",
@@ -1799,7 +2009,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r106"
+    "id": "r106",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-07",
@@ -1816,7 +2028,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r107"
+    "id": "r107",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-07",
@@ -1833,7 +2047,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r108"
+    "id": "r108",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-07",
@@ -1850,7 +2066,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r109"
+    "id": "r109",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1867,7 +2085,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r110"
+    "id": "r110",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1884,7 +2104,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r111"
+    "id": "r111",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1901,7 +2123,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r112"
+    "id": "r112",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1918,7 +2142,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r113"
+    "id": "r113",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1935,7 +2161,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r114"
+    "id": "r114",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1952,7 +2180,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r115"
+    "id": "r115",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -1969,7 +2199,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r116"
+    "id": "r116",
+    "homepageUrl": "https://haenammarathon.co.kr/home/main.ubs",
+    "homepageVerified": true
   },
   {
     "date": "2026-11-08",
@@ -1986,7 +2218,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r117"
+    "id": "r117",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2003,7 +2237,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r118"
+    "id": "r118",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2020,7 +2256,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r119"
+    "id": "r119",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2037,7 +2275,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r120"
+    "id": "r120",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2054,7 +2294,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r121"
+    "id": "r121",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2071,7 +2313,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r122"
+    "id": "r122",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2088,7 +2332,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r123"
+    "id": "r123",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-08",
@@ -2105,7 +2351,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r124"
+    "id": "r124",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-14",
@@ -2122,7 +2370,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r125"
+    "id": "r125",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-14",
@@ -2139,7 +2389,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r126"
+    "id": "r126",
+    "homepageUrl": "https://sc-marathon.kr/",
+    "homepageVerified": true
   },
   {
     "date": "2026-11-14",
@@ -2156,7 +2408,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r127"
+    "id": "r127",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2173,7 +2427,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r128"
+    "id": "r128",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2190,7 +2446,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r129"
+    "id": "r129",
+    "homepageUrl": "https://www.mbn-seoulmarathon.com/",
+    "homepageVerified": true
   },
   {
     "date": "2026-11-15",
@@ -2207,7 +2465,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r130"
+    "id": "r130",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2224,7 +2484,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r131"
+    "id": "r131",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2241,7 +2503,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r132"
+    "id": "r132",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2258,7 +2522,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r133"
+    "id": "r133",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2275,7 +2541,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r134"
+    "id": "r134",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2292,7 +2560,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r135"
+    "id": "r135",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2309,7 +2579,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r136"
+    "id": "r136",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2326,7 +2598,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r137"
+    "id": "r137",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2343,7 +2617,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r138"
+    "id": "r138",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-15",
@@ -2360,7 +2636,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r139"
+    "id": "r139",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-21",
@@ -2377,7 +2655,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r140"
+    "id": "r140",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-21",
@@ -2394,7 +2674,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r141"
+    "id": "r141",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2411,7 +2693,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r142"
+    "id": "r142",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2428,7 +2712,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r143"
+    "id": "r143",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2445,7 +2731,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r144"
+    "id": "r144",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2462,7 +2750,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r145"
+    "id": "r145",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2479,7 +2769,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r146"
+    "id": "r146",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-22",
@@ -2496,7 +2788,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r147"
+    "id": "r147",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-28",
@@ -2513,7 +2807,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r148"
+    "id": "r148",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-28",
@@ -2530,7 +2826,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r149"
+    "id": "r149",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-29",
@@ -2547,7 +2845,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r150"
+    "id": "r150",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-29",
@@ -2564,7 +2864,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r151"
+    "id": "r151",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-11-29",
@@ -2581,7 +2883,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r152"
+    "id": "r152",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-05",
@@ -2598,7 +2902,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r153"
+    "id": "r153",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-05",
@@ -2615,7 +2921,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r154"
+    "id": "r154",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-05",
@@ -2632,7 +2940,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r155"
+    "id": "r155",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-05",
@@ -2649,7 +2959,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r156"
+    "id": "r156",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-06",
@@ -2666,7 +2978,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r157"
+    "id": "r157",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-06",
@@ -2683,7 +2997,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r158"
+    "id": "r158",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-06",
@@ -2700,7 +3016,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r159"
+    "id": "r159",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-06",
@@ -2717,7 +3035,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r160"
+    "id": "r160",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-12",
@@ -2734,7 +3054,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r161"
+    "id": "r161",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-12",
@@ -2751,7 +3073,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r162"
+    "id": "r162",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-12",
@@ -2768,7 +3092,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r163"
+    "id": "r163",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-13",
@@ -2785,7 +3111,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r164"
+    "id": "r164",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-13",
@@ -2802,7 +3130,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r165"
+    "id": "r165",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-13",
@@ -2819,7 +3149,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r166"
+    "id": "r166",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-19",
@@ -2836,7 +3168,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r167"
+    "id": "r167",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-26",
@@ -2853,7 +3187,9 @@ window.RACES = [
     ],
     "sourceUrl": "https://gorunning.kr/",
     "note": "",
-    "id": "r168"
+    "id": "r168",
+    "homepageUrl": null,
+    "homepageVerified": false
   },
   {
     "date": "2026-12-28",
@@ -2870,6 +3206,8 @@ window.RACES = [
     ],
     "sourceUrl": "https://www.marathonplus.co.kr/",
     "note": "",
-    "id": "r169"
+    "id": "r169",
+    "homepageUrl": null,
+    "homepageVerified": false
   }
 ];
